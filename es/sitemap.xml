@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://danielgis.github.io/es/authors/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/authors/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/publication_types/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/tags/"
+                />
+  </url>
+  
+</urlset>

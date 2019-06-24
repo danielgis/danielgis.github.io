@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on DanielGIS</title>
+    <link>https://danielgis.github.io/es/authors/</link>
+    <description>Recent content in Authors on DanielGIS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>es</language>
+    
+	    <atom:link href="https://danielgis.github.io/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://danielgis.github.io/es/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielgis.github.io/es/authors/admin/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://danielgis.github.io/blog&#34; target=&#34;_blank&#34;&gt;Daniel Aguado H. (27)&lt;/a&gt; es Ingeniero Geógrafo de Perú, formado en las aulas de la &lt;a href=&#34;http://www.unmsm.edu.pe/&#34; target=&#34;_blank&#34;&gt;Universidad Nacional Mayor de San Marcos&lt;/a&gt;; con experiencia en el campo de la Geomática.
+En la actualidad labora en el &lt;a href=&#34;http://www.ingemmet.gob.pe/&#34; target=&#34;_blank&#34;&gt;Instituto Geológico, Minero Metalúrgico de Perú - INGEMMET&lt;/a&gt;, en la automatización y publicación de Servicios de Geoprocesamiento, asi como en el desarrollo y mantenimiento del SIGCATMIN (software de core minero) utilizando diversas tecnologías aplicadas a los Sistemas de Información Geográfica. Participó en el desarrollo de diversas aplicaciones en el &lt;a href=&#34;https://www.inei.gob.pe/&#34; target=&#34;_blank&#34;&gt;Instituto Nacional de Estadística e Informática - INEI&lt;/a&gt;, como el &amp;ldquo;Algoritmo de Segementación Automatizada en el Área Rural&amp;rdquo; para el Censo de Población y Vivienda 2017, asi como en el proyecto de &amp;ldquo;Fortalecimiento de Capacidades a Nivel Local&amp;rdquo;, como parte del equipo técnico, proporcionando métodos de estandarización cartográfica de los municipios del Perú.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
