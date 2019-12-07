@@ -3,21 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://danielgis.github.io/es/authors/admin/</loc>
+    <loc>https://danielgis.github.io/es/</loc>
+    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://danielgis.github.io/authors/admin/"
+                href="https://danielgis.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://danielgis.github.io/es/authors/admin/"
+                href="https://danielgis.github.io/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/project/urbanobservatory/</loc>
+    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/urbanobservatory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/urbanobservatory/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/project/</loc>
+    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/tags/</loc>
+    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/tags/professionals/</loc>
+    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/tags/professionals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/tags/professionals/"
                 />
   </url>
   
   <url>
     <loc>https://danielgis.github.io/es/authors/</loc>
+    <lastmod>2019-12-07T12:01:57-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -28,6 +94,67 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://danielgis.github.io/es/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/authors/danielgis/</loc>
+    <lastmod>2019-12-07T12:01:57-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/authors/danielgis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/authors/danielgis/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/project/keypress/</loc>
+    <lastmod>2019-12-07T12:01:57-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/keypress/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/keypress/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/tags/personal/</loc>
+    <lastmod>2019-12-07T12:01:57-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/tags/personal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/tags/personal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/authors/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/authors/admin/"
                 />
   </url>
   
@@ -43,21 +170,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://danielgis.github.io/es/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://danielgis.github.io/es/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/"
                 />
   </url>
   
@@ -115,21 +227,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://danielgis.github.io/es/talk/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://danielgis.github.io/es/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/tags/"
                 />
   </url>
   

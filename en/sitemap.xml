@@ -3,21 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://danielgis.github.io/authors/admin/</loc>
+    <loc>https://danielgis.github.io/</loc>
+    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://danielgis.github.io/es/authors/admin/"
+                href="https://danielgis.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://danielgis.github.io/authors/admin/"
+                href="https://danielgis.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/project/</loc>
+    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/tags/</loc>
+    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/project/urbanobservatory/</loc>
+    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/urbanobservatory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/urbanobservatory/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/tags/professionals/</loc>
+    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/tags/professionals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/tags/professionals/"
                 />
   </url>
   
   <url>
     <loc>https://danielgis.github.io/authors/</loc>
+    <lastmod>2019-12-07T12:01:57-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -28,6 +94,67 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://danielgis.github.io/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/authors/danielgis/</loc>
+    <lastmod>2019-12-07T12:01:57-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/authors/danielgis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/authors/danielgis/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/project/keypress/</loc>
+    <lastmod>2019-12-07T12:01:57-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/keypress/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/keypress/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/tags/personal/</loc>
+    <lastmod>2019-12-07T12:01:57-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/tags/personal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/tags/personal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/authors/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/authors/admin/"
                 />
   </url>
   
@@ -43,21 +170,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://danielgis.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://danielgis.github.io/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/"
                 />
   </url>
   
@@ -115,21 +227,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://danielgis.github.io/talk/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://danielgis.github.io/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/tags/"
                 />
   </url>
   
