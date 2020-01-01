@@ -6,10 +6,19 @@
     <description>Recent content in personal on DanielGIS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Dec 2019 12:01:57 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 17:35:09 -0500</lastBuildDate>
     
 	    <atom:link href="https://danielgis.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Atlas</title>
+      <link>https://danielgis.github.io/project/atlas/</link>
+      <pubDate>Wed, 01 Jan 2020 17:35:09 -0500</pubDate>
+      
+      <guid>https://danielgis.github.io/project/atlas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Keypress</title>

@@ -3,8 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://danielgis.github.io/es/project/atlas/</loc>
+    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/atlas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/atlas/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/authors/</loc>
+    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/authors/danielgis/</loc>
+    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/authors/danielgis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/authors/danielgis/"
+                />
+  </url>
+  
+  <url>
     <loc>https://danielgis.github.io/es/</loc>
-    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -19,23 +66,8 @@
   </url>
   
   <url>
-    <loc>https://danielgis.github.io/es/project/urbanobservatory/</loc>
-    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/project/urbanobservatory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/project/urbanobservatory/"
-                />
-  </url>
-  
-  <url>
     <loc>https://danielgis.github.io/es/project/</loc>
-    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -51,7 +83,7 @@
   
   <url>
     <loc>https://danielgis.github.io/es/tags/</loc>
-    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -62,6 +94,37 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://danielgis.github.io/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/tags/personal/</loc>
+    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/tags/personal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/tags/personal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/es/project/urbanobservatory/</loc>
+    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/urbanobservatory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/urbanobservatory/"
                 />
   </url>
   
@@ -82,38 +145,6 @@
   </url>
   
   <url>
-    <loc>https://danielgis.github.io/es/authors/</loc>
-    <lastmod>2019-12-07T12:01:57-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://danielgis.github.io/es/authors/danielgis/</loc>
-    <lastmod>2019-12-07T12:01:57-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/authors/danielgis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/authors/danielgis/"
-                />
-  </url>
-  
-  <url>
     <loc>https://danielgis.github.io/es/project/keypress/</loc>
     <lastmod>2019-12-07T12:01:57-05:00</lastmod>
     <xhtml:link
@@ -125,22 +156,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://danielgis.github.io/es/project/keypress/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://danielgis.github.io/es/tags/personal/</loc>
-    <lastmod>2019-12-07T12:01:57-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/tags/personal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/tags/personal/"
                 />
   </url>
   
