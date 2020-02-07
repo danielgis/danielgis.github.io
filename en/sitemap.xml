@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://danielgis.github.io/project/atlas/</loc>
-    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/project/atlas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/project/atlas/"
-                />
-  </url>
-  
-  <url>
     <loc>https://danielgis.github.io/authors/</loc>
-    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
+    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -35,7 +20,7 @@
   
   <url>
     <loc>https://danielgis.github.io/authors/danielgis/</loc>
-    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
+    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -51,7 +36,7 @@
   
   <url>
     <loc>https://danielgis.github.io/</loc>
-    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
+    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -66,8 +51,23 @@
   </url>
   
   <url>
+    <loc>https://danielgis.github.io/project/mapscrapy/</loc>
+    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/mapscrapy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/mapscrapy/"
+                />
+  </url>
+  
+  <url>
     <loc>https://danielgis.github.io/project/</loc>
-    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
+    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -83,7 +83,7 @@
   
   <url>
     <loc>https://danielgis.github.io/tags/</loc>
-    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
+    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -99,7 +99,7 @@
   
   <url>
     <loc>https://danielgis.github.io/tags/personal/</loc>
-    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
+    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -110,6 +110,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://danielgis.github.io/tags/personal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/project/atlas/</loc>
+    <lastmod>2020-01-01T17:35:09-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/atlas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/atlas/"
                 />
   </url>
   
