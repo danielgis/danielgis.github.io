@@ -10,17 +10,5 @@
 	    <atom:link href="https://danielgis.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title></title>
-      <link>https://danielgis.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://danielgis.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://danielgis.github.io/blog&#34; target=&#34;_blank&#34;&gt;Daniel Aguado H. (27)&lt;/a&gt; is a Geographer Engineer from Peru, trained in the classrooms of &lt;a href=&#34;http://www.unmsm.edu.pe/&#34; target=&#34;_blank&#34;&gt;San Marcos University&lt;/a&gt; with experience in the field of Geomatics.
-He currently works at the &lt;a href=&#34;http://www.ingemmet.gob.pe/&#34; target=&#34;_blank&#34;&gt;Geological, Mining and Metallurgical Institute of Peru - INGEMMET&lt;/a&gt;, performing process automation and publishing geoprocessing services using the Python programming language applied to Geographic Information Systems. He participated in the development of various applications in the &lt;a href=&#34;https://www.inei.gob.pe/&#34; target=&#34;_blank&#34;&gt;National Institute of Statistics and Informatics of Peru (INEI)&lt;/a&gt;, as the algorithm of &amp;ldquo;Automated Segmentation in the Rural Area&amp;rdquo; for the Population and Housing Censuses 2017, as well as participate in the project &amp;ldquo;Strengthening Of Capacities at the Local Level &amp;ldquo;, as part of the technical team, proposing the cartographic standardization of the
-municipalities of Peru.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

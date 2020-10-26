@@ -6,10 +6,37 @@
     <description>Recent content on DanielGIS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Feb 2020 11:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2020 10:33:19 -0500</lastBuildDate>
     
 	    <atom:link href="https://danielgis.github.io/authors/danielgis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PNSRDash</title>
+      <link>https://danielgis.github.io/project/pnsrdash/</link>
+      <pubDate>Mon, 26 Oct 2020 10:33:19 -0500</pubDate>
+      
+      <guid>https://danielgis.github.io/project/pnsrdash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georeinfo</title>
+      <link>https://danielgis.github.io/project/georeinfo/</link>
+      <pubDate>Tue, 22 Sep 2020 11:17:09 -0500</pubDate>
+      
+      <guid>https://danielgis.github.io/project/georeinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapscrapy Desktop</title>
+      <link>https://danielgis.github.io/project/mapscrapy-desktop/</link>
+      <pubDate>Fri, 04 Sep 2020 10:47:08 -0500</pubDate>
+      
+      <guid>https://danielgis.github.io/project/mapscrapy-desktop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mapscrapy</title>

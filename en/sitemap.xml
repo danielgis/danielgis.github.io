@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://danielgis.github.io/authors/</loc>
-    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-10-26T10:33:19-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -20,8 +19,7 @@
   
   <url>
     <loc>https://danielgis.github.io/authors/danielgis/</loc>
-    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-10-26T10:33:19-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -36,8 +34,7 @@
   
   <url>
     <loc>https://danielgis.github.io/</loc>
-    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-10-26T10:33:19-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -47,6 +44,111 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://danielgis.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/project/pnsrdash/</loc>
+    <lastmod>2020-10-26T10:33:19-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/pnsrdash/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/pnsrdash/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/tags/professionals/</loc>
+    <lastmod>2020-10-26T10:33:19-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/tags/professionals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/tags/professionals/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/project/</loc>
+    <lastmod>2020-10-26T10:33:19-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/tags/</loc>
+    <lastmod>2020-10-26T10:33:19-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/project/georeinfo/</loc>
+    <lastmod>2020-09-22T11:17:09-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/georeinfo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/georeinfo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/project/mapscrapy-desktop/</loc>
+    <lastmod>2020-09-04T10:47:08-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/project/mapscrapy-desktop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/project/mapscrapy-desktop/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielgis.github.io/tags/personal/</loc>
+    <lastmod>2020-09-04T10:47:08-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgis.github.io/es/tags/personal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielgis.github.io/tags/personal/"
                 />
   </url>
   
@@ -62,54 +164,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://danielgis.github.io/project/mapscrapy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://danielgis.github.io/project/</loc>
-    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://danielgis.github.io/tags/</loc>
-    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://danielgis.github.io/tags/personal/</loc>
-    <lastmod>2020-02-07T11:20:00-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/tags/personal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/tags/personal/"
                 />
   </url>
   
@@ -144,22 +198,6 @@
   </url>
   
   <url>
-    <loc>https://danielgis.github.io/tags/professionals/</loc>
-    <lastmod>2019-12-07T12:33:19-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://danielgis.github.io/es/tags/professionals/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://danielgis.github.io/tags/professionals/"
-                />
-  </url>
-  
-  <url>
     <loc>https://danielgis.github.io/project/keypress/</loc>
     <lastmod>2019-12-07T12:01:57-05:00</lastmod>
     <xhtml:link
@@ -190,7 +228,6 @@
   
   <url>
     <loc>https://danielgis.github.io/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -219,7 +256,6 @@
   
   <url>
     <loc>https://danielgis.github.io/publication_types/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
